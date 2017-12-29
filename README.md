@@ -21,6 +21,6 @@ PS:增加白色的原因同上<br>
 <br>
 ## winclip及其winclipAPI为Deo大神所写，在此感谢，[点此直达](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/)
 <br>
-## 已编译可直接运行exe下载链接:[点此下载](https://github.com/sumver/evernotebox/raw/master/release/evernote_box.exe/)
+## 已编译可直接运行exe下载链接[点此下载](https://github.com/sumver/evernotebox/raw/master/release/evernote_box.exe/)
 
 
