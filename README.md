@@ -1,8 +1,8 @@
 # evernotebox
 这是一个印象笔记增强工具,为增强印象笔记的编辑功能而生，一开始是在[小众软件](https://www.appinn.com/evernote-ahk-script-windows/)看到的，后来作者下架了自己也没fork源码于是自己写了一个。所以功能和样式都是仿造原作者的(毕竟我之前用他的增强工具用得很顺手)。<br>
-## 适用平台：windows系统
-## 已知BUG：目前只适配到印象笔记6.5版本，后面的版本部分功能失效正在排查。
-超(Super)级标题（Alt + S）<br>
+### 适用平台：windows系统
+### 已知BUG：目前只适配到印象笔记6.5版本，后面的版本部分功能失效正在排查。
+## 超(Super)级标题（Alt + S）<br>
 ![](https://github.com/sumver/evernotebox/blob/master/screenshots/alt%2BF.gif)
 <br>
 ## 引(Y)用（Alt + Y）<br>
