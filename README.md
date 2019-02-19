@@ -1,4 +1,4 @@
-#### 由于[印象笔记 6.15之后的版本大象取消了对HTML标签解析功能的支持](https://www.yinxiang.com/blog/blog/2018/12/25/pc_markdown_update/)，evernote_box工具也不能再支持新的影响笔记版本，现在大象支持markdown语法，推荐使用markdown来代替
+#### 由于[印象笔记 6.15之后的版本大象取消了对HTML标签解析功能的支持](https://www.yinxiang.com/blog/blog/2018/12/25/pc_markdown_update/)，evernote_box工具也不能再支持新的印象笔记版本，现在大象支持markdown语法，推荐使用markdown来代替
 # evernotebox
 这是一个印象笔记增强工具，使用autohotkey编写，为增强印象笔记的编辑功能而生，一开始是在[小众软件](https://www.appinn.com/evernote-ahk-script-windows/)看到的，后来作者下架了自己也没fork源码于是自己写了一个。所以功能和样式都是仿造原作者的(毕竟我之前用他的增强工具用得很顺手)。<br>
 ### 已编译可直接运行文件下载链接:[点此下载](https://github.com/sumver/evernotebox/raw/master/release/evernote_box.exe)
